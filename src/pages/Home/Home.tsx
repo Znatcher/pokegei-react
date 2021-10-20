@@ -1,3 +1,9 @@
+import {Container, Content} from './Home.styles'
+
 export const Home = () => {
-    return <div>Home, gonorrea ome.</div>;
+    return <Container>
+            <Content>
+                Home, gonorrea ome.
+            </Content>
+        </Container>;
 }

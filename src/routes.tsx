@@ -1,6 +1,6 @@
 import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
-import {Home} from './pages/Home/Home'
-import {Pokedex} from './pages/Pokedex/Pokedex'
+import {Home} from './pages/Home/Home';
+import {Pokedex} from './pages/Pokedex/Pokedex';
 
 export const Routes = () => {
     return <BrowserRouter>
