@@ -1,3 +1,3 @@
 export const Pokedex = () => {
-    return <div>Pokepika.</div>;
-}
+  return <div>Pokepika.</div>;
+};
