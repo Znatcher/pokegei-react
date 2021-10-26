@@ -5,7 +5,7 @@ export const SearchInput = () => {
   return (
     <Wrapper>
       <FaSearch />
-      <Input placeholder="Seatch a pokemon..." />
+      <Input placeholder="Search a pokemon..." />
     </Wrapper>
   );
 };
